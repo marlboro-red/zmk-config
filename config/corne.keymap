@@ -30,9 +30,9 @@
 
         symbols_layer {
             bindings = <
-&kp TAB    &kp Q  &kp W  &kp E     &kp R        &kp T         &kp HASH   &kp LBRC       &kp RBRC          &kp MINUS  &kp P     &kp BSPC
-&kp LCTRL  &kp A  &kp S  &kp D     &kp F        &kp G         &kp STAR   &kp LPAR       &kp RPAR          &kp L      &kp SEMI  &kp RET
-&kp LSHFT  &kp Z  &kp X  &kp C     &kp V        &kp B         &kp GRAVE  &kp LBKT       &kp RBKT          &kp DOT    &kp FSLH  &kp ESC
+&kp TAB    &kp Q  &kp W  &kp E     &kp R        &kp T         &kp HASH   &kp LBRC       &kp RBRC          &kp MINUS  &kp EQUAL  &kp BSPC
+&kp LCTRL  &kp A  &kp S  &kp D     &kp F        &kp G         &kp STAR   &kp LPAR       &kp RPAR          &kp L      &kp SEMI   &kp RET
+&kp LSHFT  &kp Z  &kp X  &kp C     &kp V        &kp B         &kp GRAVE  &kp LBKT       &kp RBKT          &kp DOT    &kp FSLH   &kp ESC
                          &kp LGUI  &mo SYMBOLS  &mo NUMPAD    &kp SPACE  &kp LESS_THAN  &kp GREATER_THAN
             >;
         };
