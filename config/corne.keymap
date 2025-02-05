@@ -27,7 +27,7 @@
      &kp LSHFT    &kp Z        &kp X        &kp C       &kp V       &kp B            &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &kp ESC
 // └───────────────────────────────────                                                                                 ───────────────────────────────────────────┘
 //                                     | GUI       | SYMBOLS     | NUMPAD     | -- | SPACEBAR   | MOUSE     | ALT      |
-                                         &kp LGUI    &mo SYMBOLS   &mo NUMPAD        &kp SPACE    &mo MOUSE   &kp RALT
+                                         &kp LGUI    &mo SYMBOLS   &mo NUMPAD        &kp SPACE    &mo SYMBOLS &kp RALT
 //                                     └──────────────────────────────────────┘ -- └───────────────────────────────────┘                    
                         >;
                 };
@@ -42,7 +42,7 @@
      &kp LSHFT    &kp Z        &kp X        &kp C       &kp V       &kp B            &kp GRAVE   &kp LBKT    &kp RBKT   &kp DOT     &kp FSLH    &kp ESC
 // └───────────────────────────────────                                                                                 ───────────────────────────────────────────┘
 //                                     | GUI       | SYMBOLS     | NUMPAD     | -- | SPACEBAR   | MOUSE     | ALT      |
-                                         &kp LGUI    &mo SYMBOLS   &mo NUMPAD        &kp SPACE    &mo MOUSE   &kp RALT
+                                         &kp LGUI    &mo SYMBOLS   &mo NUMPAD        &kp SPACE    &mo SYMBOLS &kp RALT
 //                                     └──────────────────────────────────────┘ -- └───────────────────────────────────┘                    
                         >;
                 };
