@@ -3,7 +3,7 @@
  *
  * SPDX-License-Identifier: MIT
  */
- 
+
 #define DEFAULT 0
 #define SYMBOLS 1
 #define NUMPAD  2
@@ -37,7 +37,7 @@
     keymap {
         compatible = "zmk,keymap";
 
-        default_layer {S
+        default_layer {
             bindings = <
 &lt 4 TAB  &kp Q  &kp W    &kp E     &kp R        &kp T      &kp Y       &kp U        &kp I      &kp O    &kp P     &kp BSPC
 &kp LCTRL  &kp A  &lt 2 S  &lt 1 D   &lt 4 F      &kp G      &kp H       &kp J        &kp K      &kp L    &kp SEMI  &kp RET
