@@ -29,7 +29,14 @@
         ctrlaltdelete: ctrlaltdelete {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LCTRL &kp LEFT_ALT &kp DEL>;
+            bindings =
+                <&macro_press>,
+                <&kp LCTRL &kp LEFT_ALT>,
+                <&macro_tap>,
+                <&kp DEL>,
+                <&macro_release>,
+                <&kp LCTRL &kp LEFT_ALT>;
+
             label = "CTRLALTDELETE";
         };
     };
