@@ -58,7 +58,7 @@
         number_layer {
             bindings = <
 &kp TAB    &kp Q  &kp W  &kp E     &kp R        &kp T         &kp HASH   &kp KP_N7  &kp KP_N8  &kp KP_N9  &kp P     &kp BSPC
-&kp LCTRL  &kp A  &kp S  &kp D     &kp F        &kp G         &kp STAR   &kpS KP_N4  &kp KP_N5  &kp KP_N6  &kp SEMI  &ctrlaltdelete
+&kp LCTRL  &kp A  &kp S  &kp D     &kp F        &kp G         &kp STAR   &kp KP_N4  &kp KP_N5  &kp KP_N6  &kp SEMI  &ctrlaltdelete
 &kp LSHFT  &kp Z  &kp X  &kp C     &kp V        &kp B         &kp GRAVE  &kp KP_N1  &kp KP_N2  &kp KP_N3  &kp FSLH  &kp ESC
                          &kp LGUI  &mo SYMBOLS  &mo NUMPAD    &kp SPACE  &kp KP_N0  &kp RALT
             >;
