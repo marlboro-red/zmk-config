@@ -69,8 +69,8 @@
 
         symbols_layer {
             bindings = <
-&kp TAB    &kp Q  &kp W  &kp E     &kp R        &kp T         &kp HASH   &kp LBRC       &kp RBRC          &kp MINUS  &kp EQUAL   &kp BSPC
-&kp LCTRL  &kp A  &kp S  &kp D     &kp F        &kp G         &kp STAR   &kp LPAR       &kp RPAR          &kp AT     &kp DOLLAR  &kp RET
+&kp TAB    &kp Q  &kp W  &kp E     &kp R        &kp T         &kp AT     &kp LBRC       &kp RBRC          &kp MINUS  &kp EQUAL   &kp BSPC
+&kp LCTRL  &kp A  &kp S  &kp D     &kp F        &kp G         &kp HASH   &kp LPAR       &kp RPAR          &kp STAR   &kp DOLLAR  &kp RET
 &kp LSHFT  &kp Z  &kp X  &kp C     &kp V        &kp B         &kp GRAVE  &kp LBKT       &kp RBKT          &kp EXCL   &kp FSLH    &kp ESC
                          &kp LGUI  &mo SYMBOLS  &mo NUMPAD    &kp SPACE  &kp LESS_THAN  &kp GREATER_THAN
             >;
