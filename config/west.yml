@@ -2,15 +2,15 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: marlboro-red                            
-      url-base: https://github.com/marlboro-red    
+    - name: joaopedropio                            
+      url-base: https://github.com/joaopedropio   
   projects:
     - name: zmk
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: prospector-zmk-module                 # <--- and these
-      remote: marlboro-red                          # <---
-      revision: main       
+    - name: snake-prospector-zmk-module                 # <--- and these
+      remote: joaopedropio                          # <---
+      revision: master       
   self:
     path: config
